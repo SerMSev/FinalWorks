@@ -1,0 +1,15 @@
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\bin\Debug\net6.0\First_Block.exe
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\bin\Debug\net6.0\First_Block.deps.json
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\bin\Debug\net6.0\First_Block.runtimeconfig.json
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\bin\Debug\net6.0\First_Block.dll
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\bin\Debug\net6.0\First_Block.pdb
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\First_Block.csproj.AssemblyReference.cache
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\First_Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\First_Block.AssemblyInfoInputs.cache
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\First_Block.AssemblyInfo.cs
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\First_Block.csproj.CoreCompileInputs.cache
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\First_Block.dll
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\refint\First_Block.dll
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\First_Block.pdb
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\First_Block.genruntimeconfig.cache
+C:\Users\serms\Desktop\git\FinalWorks\First_Block\obj\Debug\net6.0\ref\First_Block.dll
